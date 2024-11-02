@@ -8,7 +8,8 @@
 
 "This project is called HAPPISM. It is a project for the course 'Application Development with Scripting Language Module.' The topic of this project comes from nursing students at Suranaree University of Technology, so we are developing this topic into an Application."
 
-
+## More
+"The HAPPSIM Project is an application that was developed before HappyMind ,HappyMind has been further developed to be better in many aspects and differs from the original."
 
 ## Getting Started
 
@@ -48,7 +49,7 @@ npm install react-native-paper
 - ⚙️ Feature 2: [Statistical data display]
 - 📊 Feature 3: [Educational content on mental health]
 
-## INSTALL
+## Install
 
 Follow the steps below to install this project.:
 
