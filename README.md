@@ -1,4 +1,4 @@
-# ชื่อโปรเจกต์
+# PROJECT 
 
 [![License](https://img.shields.io/badge/license-HAPPISM-brightgreen.svg)](LICENSE)
 
@@ -14,9 +14,15 @@ The HappyMind website is about mental health at Suranaree University of Technolo
 
 ```bash
 npm install 
-# ติดตั้ง packet ต่างๆ
+# Install packet 
+
 npx expo
-# รันโปรเจค
+# Run project
+
+npm install react-native-calendars
+
+npm install react-native-paper
+
 ```
 
 
