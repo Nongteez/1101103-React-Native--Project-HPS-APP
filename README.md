@@ -16,10 +16,10 @@
 
 ## Tools used for development
 
--Visual Studio Code
--Android Studio
--Firebase
--React native Framework
+- [Visual Studio Code]
+- [Android Studio]
+- [Firebase]
+- [React native Framework]
 
 ## Hot to install Project
 
