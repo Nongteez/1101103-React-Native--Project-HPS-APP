@@ -1,3 +1,9 @@
+# ชื่อโปรเจกต์
+
+## บทนำ
+
+ยินดีต้อนรับสู่ [ชื่อโปรเจกต์]! นี่คือ [คำอธิบายสั้น ๆ เกี่ยวกับโปรเจกต์ของคุณ เช่น วัตถุประสงค์, ฟีเจอร์, หรือเทคโนโลยีที่ใช้].
+
 ## About Project
 
 
@@ -16,7 +22,7 @@ The HappyMind website is about mental health at Suranaree University of Technolo
 ```bash
 npm install 
 # ติดตั้ง packet ต่างๆ
-npm run dev 
+npx expo
 # รันโปรเจค
 ```
 
@@ -28,11 +34,9 @@ npm run dev
 
 # ชื่อโปรเจกต์
 
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIsssT-brightgreen.svg)](LICENSE)
 
-## บทนำ
 
-ยินดีต้อนรับสู่ [ชื่อโปรเจกต์]! นี่คือ [คำอธิบายสั้น ๆ เกี่ยวกับโปรเจกต์ของคุณ เช่น วัตถุประสงค์, ฟีเจอร์, หรือเทคโนโลยีที่ใช้].
 
 ## ฟีเจอร์
 
@@ -44,6 +48,6 @@ npm run dev
 
 ทำตามขั้นตอนด้านล่างเพื่อติดตั้งโปรเจกต์นี้:
 
-1. คลอนโปรเจกต์:
+1. Clone Project :
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/Nongteez/1101103-React-Native--Project-HPS-APP.git
