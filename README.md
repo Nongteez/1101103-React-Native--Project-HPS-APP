@@ -9,6 +9,12 @@
 "This project is called HAPPISM. It is a project for the course 'Application Development with Scripting Language Module.' The topic of this project comes from nursing students at Suranaree University of Technology, so we are developing this topic into an Application."
 
 
+## Tools used for development
+
+-Visual Studio Code
+-Android Studio
+-Firebase
+-React native Framework
 
 ## Hot to install Project
 
@@ -34,10 +40,9 @@ npm install react-native-paper
 
 ## Feature
 
-- 🔍 ฟีเจอร์ 1: [อธิบายฟีเจอร์]
-- ⚙️ ฟีเจอร์ 2: [อธิบายฟีเจอร์]
-- 📊 ฟีเจอร์ 3: [อธิบายฟีเจอร์]
-  
+- 🔍 Feature 1: [Calendar for recording emotions each day]
+- ⚙️ Feature 2: [Statistical data display]
+- 📊 Feature 3: [Educational content on mental health]
 
 ## INSTALL
 
