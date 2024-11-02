@@ -1,13 +1,9 @@
 # ชื่อโปรเจกต์
 
-## บทนำ
+[![License](https://img.shields.io/badge/license-HAPPISM-brightgreen.svg)](LICENSE)
 
-ยินดีต้อนรับสู่ [ชื่อโปรเจกต์]! นี่คือ [คำอธิบายสั้น ๆ เกี่ยวกับโปรเจกต์ของคุณ เช่น วัตถุประสงค์, ฟีเจอร์, หรือเทคโนโลยีที่ใช้].
 
 ## About Project
-
-
-
 
 
 The HappyMind website is about mental health at Suranaree University of Technology. For this website, in the section for users who are Admins, this project is a collaboration between the Dev team and the Security team according to SecSDLC. The Security team has implemented code for various encryption functions."
@@ -15,9 +11,6 @@ The HappyMind website is about mental health at Suranaree University of Technolo
 
 
 ## Hot to install Project
-
-
-
 
 ```bash
 npm install 
@@ -30,11 +23,6 @@ npx expo
 
 ## Getting Started
 
-
-
-# ชื่อโปรเจกต์
-
-[![License](https://img.shields.io/badge/license-MIsssT-brightgreen.svg)](LICENSE)
 
 
 
