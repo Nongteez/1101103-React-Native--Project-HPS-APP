@@ -6,7 +6,7 @@
 ## About Project
 
 
-The HappyMind website is about mental health at Suranaree University of Technology. For this website, in the section for users who are Admins, this project is a collaboration between the Dev team and the Security team according to SecSDLC. The Security team has implemented code for various encryption functions."
+"This project is called HAPPISM. It is a project for the course 'Application Development with Scripting Language Module.' The topic of this project comes from nursing students at Suranaree University of Technology, so we are developing this topic into an Application."
 
 
 
