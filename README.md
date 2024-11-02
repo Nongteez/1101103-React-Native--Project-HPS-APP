@@ -9,6 +9,11 @@
 "This project is called HAPPISM. It is a project for the course 'Application Development with Scripting Language Module.' The topic of this project comes from nursing students at Suranaree University of Technology, so we are developing this topic into an Application."
 
 
+
+## Getting Started
+
+
+
 ## Tools used for development
 
 -Visual Studio Code
@@ -33,7 +38,6 @@ npm install react-native-paper
 
 
 
-## Getting Started
 
 
 
